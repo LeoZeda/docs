@@ -58,7 +58,7 @@ export default {
 
 ```js
 export default {
-  data (context) {
+  data () {
     return { foo: 'bar' }
   }
 }
