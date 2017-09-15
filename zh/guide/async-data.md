@@ -66,7 +66,7 @@ export default {
 
 ### 数据的展示
 
-`asyncData` 方法返回的数据在融合 `data` 方法放回的数据后，一并返回给模板进行展示，如：
+`asyncData` 方法返回的数据在融合 `data` 方法返回的数据后，一并返回给模板进行展示，如：
 
 ```html
 <template>
